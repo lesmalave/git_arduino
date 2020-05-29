@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "output": "build",
+    "sketch": "Uso_de_funciones.ino"
+}
