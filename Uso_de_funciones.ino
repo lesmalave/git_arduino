@@ -1,4 +1,4 @@
-int tiempo = 60;
+int tiempo = 50;
 int pin;
 void setup() {
   for(pin=7;pin<=13;pin++)
