@@ -1,5 +1,6 @@
 {
     "board": "arduino:avr:uno",
-    "output": "build",
+    "output": "C:/Users/luisb/OneDrive/DocumentsOutput_arduino",
+    "port": "COM6",
     "sketch": "Uso_de_funciones.ino"
 }
