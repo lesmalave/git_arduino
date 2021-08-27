@@ -1,3 +1,7 @@
+/*
+Codigo de prueba Usando Funciones en arduino
+*/
+
 int tiempo = 50;
 int pin;
 void setup() {
